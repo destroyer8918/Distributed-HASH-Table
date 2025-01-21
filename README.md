@@ -23,7 +23,6 @@ data is stored without duplication or loss.
 Another goal is to establish communication between the nodes. The system
 uses TCP sockets to enable data exchange between nodes. Each node must be
 able to send and receive data requests. Communication ensures that the nodes
-1
 work together to achieve the system’s overall goals. The design also allows for
 adding new nodes in the future. This makes the system scalable and adaptable
 to larger datasets.
